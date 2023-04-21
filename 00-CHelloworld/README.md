@@ -5,7 +5,7 @@
 ### INDIVIDUAL
 
 - ALUMNO: Alejandro Pais
-- Compilador: C11
+- Compilador: MinGW / C11
 
 # TRABAJO N° 0
 ## "Hello, World!” en C
